@@ -11,7 +11,7 @@
 ⚠️ Flag system for marking suspected mines
 
 🧰 Tech Stack
-Language	   -          Java
-GUI Framework	   -      JavaFX
-IDE Used	       -      VS Code
+Language	   -          Java,
+GUI Framework	   -      JavaFX,
+IDE Used	       -      VS Code,
 Build Tool       -      JavaFX SDK
